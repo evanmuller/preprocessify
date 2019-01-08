@@ -26,13 +26,12 @@
   },
   "homepage": "https://github.com/bibliolabs/preprocessify",
   "dependencies": {
-    "browserify-transform-tools": "~1.4.2",
-    "preprocess": "~3.0.2"
+    "browserify-transform-tools": "~1.7.0",
+    "preprocess": "~3.1.0"
   },
   "devDependencies": {
-    "browserify": "^13.0.1",
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "path": "^0.12.7"
+    "browserify": "^16.2.3",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
   }
 }
